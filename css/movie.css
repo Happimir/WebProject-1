@@ -5,10 +5,7 @@ body {
 
 .banner {
     background-image: url(../images/rancidbannerbg.png);
-    width: 100%;
-    position: fixed;
-    text-align: center;
-    top: 0;
+    justify-content: center;
 }
 
 h1 {
