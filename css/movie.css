@@ -19,6 +19,12 @@ h1 {
     text-shadow: 3px 3px #999999;
 }
 
+h2 {
+	text-align:center;
+	margin: 5px;
+	font-size: 24px;
+}
+
 p:nth-child(odd) {
     background-color: #E8DC9B;
     border-style: solid;
@@ -31,9 +37,7 @@ p:nth-child(odd) {
     border-style: solid;
     border-width: 4px;
     border-color: gray;
-
     margin: auto;
-    padding: 10px;
 }
 
 .rating {
@@ -43,6 +47,7 @@ p:nth-child(odd) {
     font-size: 48px;
     font-weight: bold;
     color: red;
+	vertical-align: top
 }
 
 .leftPanel {
@@ -61,11 +66,20 @@ p:nth-child(odd) {
 .rightContent {
     float: right;
     width: 47%;
+	padding-left: 1%;
+	padding-right: 2%;
 }
 
 .leftContent {
     float: left;
     width:47%;
+	padding-left: 2%;
+	padding-right: 1%;
+}
+ 
+.w3image {
+	float: right;
+	padding-right: 0px;
 }
 
 .cleared {
