@@ -36,7 +36,9 @@ p:nth-child(odd) {
 
 /* I think we can use this to fix how the reviewer's name is displayed
    but I haven't quite figured out how yet */
-p:nth-child(even) {
+
+img.top {
+    vertical-align: text-top;
 
 }
 
@@ -55,7 +57,7 @@ p:nth-child(even) {
     font-size: 48px;
     font-weight: bold;
     color: red;
-	vertical-align: top
+    vertical-align: top;
 }
 
 .leftPanel {
