@@ -33,7 +33,6 @@ p:nth-child(odd) {
     overflow: hidden;
     padding: 5px;
 }
-
 .mainPanel {
     width: 800px;
     border: 4px solid gray;
@@ -49,7 +48,7 @@ p:nth-child(odd) {
     font-size: 48px;
     font-weight: bold;
     color: red;
-    vertical-align: top;
+    vertical-align: bottom;
 }
 
 .leftPanel {
