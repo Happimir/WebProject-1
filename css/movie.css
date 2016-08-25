@@ -17,6 +17,7 @@ h1 {
     font-weight: bold;
     font-family: Tahoma,Verdana,sans-serif;
     text-shadow: 3px 3px #999999;
+    padding-top: 50px;
 }
 
 h2 {
@@ -27,16 +28,17 @@ h2 {
 
 p:nth-child(odd) {
     background-color: #E8DC9B;
-    border-style: solid;
-    border-color: gray;
-    border-width: 2px;
+    border: 2px solid gray;
+    border-radius: 10px;
+    overflox: hidden;
+    padding: 5px;
 }
 
 .mainPanel {
     width: 800px;
-    border-style: solid;
-    border-width: 4px;
-    border-color: gray;
+    border: 4px solid gray;
+    border-radius: 15px;
+    overflow: hidden;
     margin: auto;
 }
 
