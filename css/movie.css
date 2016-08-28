@@ -12,23 +12,19 @@ body {
 }
 /*css for the rating banner*/
 .overallRating{
+    height: 83px;
+    width: 550px;
     background-image: url(../images/rottenlargebg.png);
     vertical-align: text-bottom;
-     font-size: 43pt;
+    font-size: 48pt;
     font-weight: bold;
     color: red;
-    height: 83px;
-}
 
+}
 
 .alignLeft{
     float: left;
 }
-
-
-
-
-
 
 h1 {
     text-align: center;
