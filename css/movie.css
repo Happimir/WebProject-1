@@ -12,7 +12,7 @@ body {
 }
 /*css for the rating banner*/
 .overallRating{
-    background-image: url(rottenlargebg.png);
+    background-image: url(../images/rottenlargebg.png);
     vertical-align: text-bottom;
      font-size: 43pt;
     font-weight: bold;
