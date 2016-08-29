@@ -79,6 +79,12 @@ p:nth-child(odd) {
     text-align: left;
 }
 
+.bottom {
+    width: 800px;
+    float: left;
+    background-color: #A2B964;
+}
+
 .rightContent {
     float: right;
     width: 47%;
