@@ -1,6 +1,7 @@
 body {
     margin: 0 !important;
     background-image:url(../images/moviebg.png);
+    background-size: 100px 100px;
 }
 
 .banner {
