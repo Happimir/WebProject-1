@@ -47,7 +47,7 @@ p:nth-child(odd) {
     border: 2px solid gray;
     border-radius: 10px;
     overflow: hidden;
-    padding: 5px;
+    padding: 8px;
 }
 .mainPanel {
     width: 800px;
@@ -78,6 +78,9 @@ p:nth-child(odd) {
     font-size: 8pt;
     font-family: Arial, sans-serif;
     text-align: left;
+
+    padding-bottom: 9999px;
+    margin-bottom: -9999px;
 }
 
 .bottom {
